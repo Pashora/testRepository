@@ -1,4 +1,5 @@
 # testRepository
--Olena Kaspruk
+- Alyona Andrieichenko
+- Olena Kaspruk
 - Viktor Bulatov
 - Olga Zaderkovskaya
